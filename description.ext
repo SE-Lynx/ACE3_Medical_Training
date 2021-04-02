@@ -1,0 +1,10 @@
+class CfgFunctions
+{
+	class OPSEC
+	{
+		class OPSEC_Cat
+		{
+			class Controller {file = "OPSEC_scripts\addActionToController.sqf";};
+		};
+	};
+};
